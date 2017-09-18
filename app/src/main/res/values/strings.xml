@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NetWork</string>
+    <string name="local_network_state">当前网络状态</string>
+</resources>
